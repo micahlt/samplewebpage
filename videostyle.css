@@ -1,0 +1,31 @@
+body {
+  background-color: #fd5f60;
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attatchment: fixed;
+}
+
+h1{
+  color: #E8C840;
+  font-family: 'Kavivanar', sans-serif;
+  text-align: center;
+}
+
+h3{
+  color: #E8A640;
+  font-family: 'Titillium Web', sans-serif;
+  text-align: center;
+}
+
+p{
+  margin: 8%;
+}
+
+p .introduction{
+  background: #7A7D7F;
+}
+
+p .useloom{
+    background: #7A7D7F;
+}
