@@ -2,6 +2,7 @@ body {
   background-image: url("https://images.pexels.com/photos/4827/nature-forest-trees-fog.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
   background-position: center top;
   background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1{
